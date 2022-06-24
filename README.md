@@ -32,8 +32,8 @@ An inventory management application that displays a list of items, each with cha
  3. `npm start`
 
 ## Demo
-![Picture](inventory/src/Add item (1).png "AddItem")
-![Pic](inventory/src/ItemList (1).png "ItemList")
+![Picture](src/Add item (1).png "AddItem")
+![Pic](src/ItemList (1).png "ItemList")
 
 ## Acknowledgements
 Special thanks to the Multiverse coaches who have taught me a great deal in a short amount of time, McKinsey & Co. for providing me the opportunity to pursue my career ambitions, and my fellow apprentices who continue to inspire and motivate me to be a better programmer.
